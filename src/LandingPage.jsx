@@ -169,16 +169,10 @@ export default function LandingPage() {
           transition={{ duration: 1, delay: 0.6 }}
         >
           <a
-            href="#"
+            href="https://app.influx.market/earn"
             className="bg-gradient-to-r from-blue-500 to-cyan-500 px-6 py-3 rounded-2xl font-semibold text-black shadow-lg"
           >
             Launch App
-          </a>
-          <a
-            href="#"
-            className="border border-gray-600 px-6 py-3 rounded-2xl font-semibold hover:border-cyan-400"
-          >
-            Docs
           </a>
         </motion.div>
       </div>
